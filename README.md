@@ -4,6 +4,18 @@ This is project of creating customized Enurables  using Ruby.
 ## Built With
 
 - Ruby 
+- Linters
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+- Clone repository in your local machine 
+- run `npm install` in the terminal.
+
+## Live Demo
+
+[Coming soon]()
 
 ## Author 1
 
